@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{E762E59E-E011-46B9-A0B7-83EF876E96A3}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Lab2/Program.cs">
+    <Files>
+      <File FileName="Lab2/Program.cs" Line="47" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Lab2" expanded="True">
+            <Node name="Lab2" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches>
+    <Watch file="../../../../Pig_Latin/Pig_Latin/Program.cs" line="42" offsetX="-1" offsetY="-1" expression="firstLetter" liveUpdate="False" />
+    <Watch file="../../../../Pig_Latin/Pig_Latin/Program.cs" line="42" offsetX="-1" offsetY="-1" expression="firstLetter" liveUpdate="False" />
+    <Watch file="../../../../Pig_Latin/Pig_Latin/Program.cs" line="62" offsetX="-1" offsetY="-1" expression="Console" liveUpdate="False" />
+    <Watch file="../../../../Pig_Latin/Pig_Latin/Program.cs" line="63" offsetX="-1" offsetY="-1" expression="yesOrNo" liveUpdate="False" />
+    <Watch file="../../../../Pig_Latin/Pig_Latin/Program.cs" line="65" offsetX="-1" offsetY="-1" expression="restart" liveUpdate="False" />
+  </MonoDevelop.Ide.DebuggingService.PinnedWatches>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Lab2 PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
